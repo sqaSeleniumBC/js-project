@@ -1,4 +1,4 @@
-# Advanced Automation Project
+# JavaScript Automation Project
 
 Advanced Automation Framework for Java Selenium WebDriver Automation Tests
 
